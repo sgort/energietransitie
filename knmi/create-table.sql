@@ -1,0 +1,15 @@
+
+
+CREATE TABLE [IF NOT EXISTS] KNMI_dagwaarnemingen (
+    STN INT NOT NULL,
+    YYYYMMDD DATE NOT NULL,
+    DDVEC INT,
+    FHVEC INT,
+    FG INT,
+    FHX INT,
+    FHN INT,
+    FHNH INT,
+    FXX INT,
+    FXXH INT,
+  PRIMARY KEY (STN, YYYYMMDD)
+);
