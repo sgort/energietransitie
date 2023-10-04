@@ -11,4 +11,6 @@
         - 260: De Bilt
         - 380: Maastricht
     - Bestand downloaden (voorbeeld knmi/result-original.txt)
-- Import aangepast bestand cia phpPgAdmin (voorbeeld knmi/result-import-ready.txt)
+- Import aangepast bestand via phpPgAdmin (voorbeeld knmi/result-import-ready.txt)
+
+![import](Import.png)
