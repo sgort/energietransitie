@@ -1,0 +1,233 @@
+{
+  "appName": "Redshare_API",
+  "serviceLocations": [
+    {
+      "serviceLocationId": 48795,
+      "serviceLocationUuid": "660ddaef-8ed2-45f5-97c6-01d743ef9e29",
+      "name": "Loevenhoutsedijk (1)",
+      "deviceSerialNumber": "5010004002"
+    },
+    {
+      "serviceLocationId": 48797,
+      "serviceLocationUuid": "207e67e6-f195-4d71-9010-054a67a6678b",
+      "name": "Loevenhoutsedijk (2)",
+      "deviceSerialNumber": "5010003954"
+    },
+    {
+      "serviceLocationId": 63721,
+      "serviceLocationUuid": "f6673b79-b3e4-44cb-b443-7e3ebcc4baaa",
+      "name": "TRA - Arnhem",
+      "deviceSerialNumber": "5130000219"
+    },
+    {
+      "serviceLocationId": 63722,
+      "serviceLocationUuid": "3382f2a6-e382-40be-a55c-006d32bbf7bb",
+      "name": "TRB - Arnhem",
+      "deviceSerialNumber": "5130000226"
+    },
+    {
+      "serviceLocationId": 63723,
+      "serviceLocationUuid": "2ac986e0-c918-4ef8-a5a8-cdcb96a449a1",
+      "name": "TRC - Arnhem",
+      "deviceSerialNumber": "5130000225"
+    },
+    {
+      "serviceLocationId": 63724,
+      "serviceLocationUuid": "33095717-f871-4c98-b73e-eb64100eb2dd",
+      "name": "TRD - Arnhem",
+      "deviceSerialNumber": "5130000224"
+    },
+    {
+      "serviceLocationId": 42689,
+      "serviceLocationUuid": "ec81f694-142e-4b8e-99e3-e0e687e93622",
+      "name": "Zwolle Roltrappen k1-k9 en k12(L3)",
+      "deviceSerialNumber": "5010002372"
+    },
+    {
+      "serviceLocationId": 42698,
+      "serviceLocationUuid": "4a3ee493-bc5c-40e1-a963-3dd0a0217de8",
+      "name": "Zwolle Hoofd groep +rest",
+      "deviceSerialNumber": "5010001359"
+    },
+    {
+      "serviceLocationId": 42703,
+      "serviceLocationUuid": "cf473ece-cdfb-4273-8af6-e3eba6857ff4",
+      "name": "Zwolle Liften en verlichting",
+      "deviceSerialNumber": "5010002371"
+    },
+    {
+      "serviceLocationId": 63719,
+      "serviceLocationUuid": "93929172-eecc-40ba-9c01-972205cf89e5",
+      "name": "Arnhem Verdeelkast A en B - locatie 1",
+      "deviceSerialNumber": "5130000228"
+    },
+    {
+      "serviceLocationId": 63720,
+      "serviceLocationUuid": "88cbecac-f5c6-4cfa-b5a1-42ede2c6228b",
+      "name": "Arnhem Verdeelkast C - locatie 1",
+      "deviceSerialNumber": "5130000232"
+    },
+    {
+      "serviceLocationId": 74190,
+      "serviceLocationUuid": "07310ea3-812b-44e5-8145-760d7e021c5e",
+      "name": "Kiosk utr 8-9b",
+      "deviceSerialNumber": "5130007289"
+    },
+    {
+      "serviceLocationId": 74194,
+      "serviceLocationUuid": "fce582ac-0632-457a-8056-453276c2e09a",
+      "name": "Kiosk utr 8. 9 b 2",
+      "deviceSerialNumber": "5130007306"
+    },
+    {
+      "serviceLocationId": 74222,
+      "serviceLocationUuid": "d507e035-8386-4bd9-a255-9cd2676c8dc3",
+      "name": "Kiosk utr sp 11 12 a",
+      "deviceSerialNumber": "5130007290"
+    },
+    {
+      "serviceLocationId": 74223,
+      "serviceLocationUuid": "2c31a460-b89a-4d2c-8f26-9d793519d444",
+      "name": "Kiosk utr 11 12 a II",
+      "deviceSerialNumber": "5130007288"
+    },
+    {
+      "serviceLocationId": 75282,
+      "serviceLocationUuid": "578c1392-d0dc-4142-8ba4-250fe0470b15",
+      "name": "Kiosk UTR 5-7A II",
+      "deviceSerialNumber": "5130007298"
+    },
+    {
+      "serviceLocationId": 75283,
+      "serviceLocationUuid": "d0bc304f-cf9a-405d-8102-d9a5471b9655",
+      "name": "Kiosk UTR spoor5-7 A I",
+      "deviceSerialNumber": "5130008549"
+    },
+    {
+      "serviceLocationId": 75570,
+      "serviceLocationUuid": "492acd22-6f3f-441d-af08-c3f3c4332456",
+      "name": "Kiosk Den Bosch 6-7. 1",
+      "deviceSerialNumber": "5130007299"
+    },
+    {
+      "serviceLocationId": 75571,
+      "serviceLocationUuid": "0da25350-9abc-428f-8abb-729e0b12ee70",
+      "name": "Kiosk Den Bosch spoor 6-7 (2)",
+      "deviceSerialNumber": "5130007291"
+    },
+    {
+      "serviceLocationId": 75641,
+      "serviceLocationUuid": "4da32611-21e5-4a85-a56f-1e4405aa38cf",
+      "name": "Ah togo leiden 1",
+      "deviceSerialNumber": "5130008554"
+    },
+    {
+      "serviceLocationId": 75642,
+      "serviceLocationUuid": "8ebf21fa-b531-40b3-93b1-b280b745dff7",
+      "name": "Ah togo leiden rail",
+      "deviceSerialNumber": "5130008570"
+    },
+    {
+      "serviceLocationId": 75991,
+      "serviceLocationUuid": "53619b31-4c84-4f93-9596-b1bd94950f6b",
+      "name": "Kiosk RTD spoor 11-12",
+      "deviceSerialNumber": "5130007267"
+    },
+    {
+      "serviceLocationId": 77699,
+      "serviceLocationUuid": "1dddb2b5-39ec-49bb-87c3-ae184e998470",
+      "name": "AH to go arnhem 2",
+      "deviceSerialNumber": "5130007275"
+    },
+    {
+      "serviceLocationId": 77700,
+      "serviceLocationUuid": "15bd4ea3-41db-4d37-ae13-cb69f09940dc",
+      "name": "AH to go arnhem 3",
+      "deviceSerialNumber": "5130007273"
+    },
+    {
+      "serviceLocationId": 77704,
+      "serviceLocationUuid": "5bbf682d-c064-41f6-8729-636f9f575e5f",
+      "name": "AH to go arnhem 1",
+      "deviceSerialNumber": "5130007270"
+    },
+    {
+      "serviceLocationId": 85282,
+      "serviceLocationUuid": "47c7e6fe-74cd-429e-baa1-e6f45c44d06f",
+      "name": "Julias Eindhoven ",
+      "deviceSerialNumber": "5130016219"
+    },
+    {
+      "serviceLocationId": 88418,
+      "serviceLocationUuid": "52beb6d1-9a80-4bcc-8c7f-aa14e31c8f0f",
+      "name": "Julias eindhoven 2",
+      "deviceSerialNumber": "5130016170"
+    },
+    {
+      "serviceLocationId": 92478,
+      "serviceLocationUuid": "b974c3e2-8f32-426e-9455-b713e2ae7687",
+      "name": "Julias adam1",
+      "deviceSerialNumber": "5130007307"
+    },
+    {
+      "serviceLocationId": 92480,
+      "serviceLocationUuid": "8ddb2fa4-9831-4d6c-b6f3-459ead75457d",
+      "name": "Julias adam2",
+      "deviceSerialNumber": "5130016286"
+    },
+    {
+      "serviceLocationId": 92485,
+      "serviceLocationUuid": "0f4cc938-c971-469d-a91e-8f0dda24ba86",
+      "name": "Julias adam3",
+      "deviceSerialNumber": "5130007305"
+    },
+    {
+      "serviceLocationId": 96808,
+      "serviceLocationUuid": "569576ed-2761-47fb-8ea8-bc700f2653f5",
+      "name": "PR Barendrecht 1 kkc003",
+      "deviceSerialNumber": "5130007276"
+    },
+    {
+      "serviceLocationId": 96809,
+      "serviceLocationUuid": "e1b37381-ebe7-43d1-8e86-2c34a7e6cab1",
+      "name": "PR Barendrecht ekc004. Nr1",
+      "deviceSerialNumber": "5130007309"
+    },
+    {
+      "serviceLocationId": 96810,
+      "serviceLocationUuid": "4c81b070-bed7-40ab-96c5-8bd96139fe52",
+      "name": "PR Barendrecht ekc002 deel 3",
+      "deviceSerialNumber": "5130017294"
+    },
+    {
+      "serviceLocationId": 96881,
+      "serviceLocationUuid": "a3ca79b2-aec2-4fd4-9a1b-bbc82e1aee32",
+      "name": "PR Barendrecht bg liftkast",
+      "deviceSerialNumber": "5130016985"
+    },
+    {
+      "serviceLocationId": 96886,
+      "serviceLocationUuid": "20ae0b28-5908-4f6c-b5c7-94b12214e61a",
+      "name": "PR Barendrecht BG EKC012",
+      "deviceSerialNumber": "5130016984"
+    },
+    {
+      "serviceLocationId": 113791,
+      "serviceLocationUuid": "a009a35e-9baa-4bf7-9a84-50825ee46ef1",
+      "name": "ProRail Dordrecht ",
+      "deviceSerialNumber": "5130017297"
+    },
+    {
+      "serviceLocationId": 143976,
+      "serviceLocationUuid": "c7d390ba-9286-4577-9e41-1759d1676dd2",
+      "name": "SHK-Driebergen ",
+      "deviceSerialNumber": "5130007287"
+    },
+    {
+      "serviceLocationId": 144941,
+      "serviceLocationUuid": "6d8f594a-584b-41e8-8ac1-86deace58fdf",
+      "name": "SHK Weesp",
+      "deviceSerialNumber": "5130016294"
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "lon": 5.112436,
+  "lat": 52.107364,
+  "electricityCost": 0.0,
+  "electricityCurrency": "EUR",
+  "timezone": "Europe/Amsterdam",
+  "appliances": [
+    {
+      "id": 8,
+      "name": "Meter 3",
+      "type": "Outlet",
+      "sourceType": "CT"
+    },
+    {
+      "id": 1,
+      "name": "Meter 1",
+      "type": "Outlet",
+      "sourceType": "CT"
+    },
+    {
+      "id": 6,
+      "name": "Lbk kantine ",
+      "type": "Outlet",
+      "sourceType": "CT"
+    },
+    {
+      "id": 7,
+      "name": "Meter 2",
+      "type": "Outlet",
+      "sourceType": "CT"
+    },
+    {
+      "id": 2,
+      "name": "Verl buitenberging. 3",
+      "type": "Outlet",
+      "sourceType": "CT"
+    },
+    {
+      "id": 3,
+      "name": "Boiler10l",
+      "type": "Outlet",
+      "sourceType": "CT"
+    },
+    {
+      "id": 4,
+      "name": "Verl keuken",
+      "type": "Outlet",
+      "sourceType": "CT"
+    },
+    {
+      "id": 5,
+      "name": "Verl vide ",
+      "type": "Outlet",
+      "sourceType": "CT"
+    }
+  ],
+  "actuators": [],
+  "sensors": [],
+  "monitors": [],
+  "phaseType": "THREE_STAR",
+  "channelsConfiguration": {
+    "inputChannels": [
+      {
+        "ctInput": 0,
+        "name": "Net",
+        "phase": 0,
+        "inputChannelType": "CONSUMPTION",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_400A"
+      },
+      {
+        "ctInput": 1,
+        "name": "Net",
+        "phase": 1,
+        "inputChannelType": "CONSUMPTION",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_400A"
+      },
+      {
+        "ctInput": 2,
+        "name": "Net",
+        "phase": 2,
+        "inputChannelType": "CONSUMPTION",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_400A"
+      },
+      {
+        "ctInput": 3,
+        "name": "Meter 1",
+        "phase": 0,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_100A"
+      },
+      {
+        "ctInput": 4,
+        "name": "Meter 1",
+        "phase": 1,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_100A"
+      },
+      {
+        "ctInput": 5,
+        "name": "Meter 1",
+        "phase": 2,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_100A"
+      },
+      {
+        "ctInput": 6,
+        "name": "Verl buitenberging. 3",
+        "phase": 0,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_50A"
+      },
+      {
+        "ctInput": 7,
+        "name": "Boiler10l",
+        "phase": 1,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_50A"
+      },
+      {
+        "ctInput": 8,
+        "name": "Verl keuken",
+        "phase": 1,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_50A"
+      },
+      {
+        "ctInput": 9,
+        "name": "Verl vide ",
+        "phase": 2,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_50A"
+      },
+      {
+        "ctInput": 10,
+        "name": "Lbk kantine ",
+        "phase": 0,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_50A"
+      },
+      {
+        "ctInput": 11,
+        "name": "Lbk kantine ",
+        "phase": 1,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_50A"
+      },
+      {
+        "ctInput": 12,
+        "name": "Lbk kantine ",
+        "phase": 2,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_50A"
+      },
+      {
+        "ctInput": 13,
+        "name": "Meter 2",
+        "phase": 0,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_200A"
+      },
+      {
+        "ctInput": 14,
+        "name": "Meter 2",
+        "phase": 1,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_200A"
+      },
+      {
+        "ctInput": 15,
+        "name": "Meter 2",
+        "phase": 2,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_200A"
+      },
+      {
+        "ctInput": 16,
+        "name": "Meter 3",
+        "phase": 0,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_400A"
+      },
+      {
+        "ctInput": 17,
+        "name": "Meter 3",
+        "phase": 1,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_400A"
+      },
+      {
+        "ctInput": 18,
+        "name": "Meter 3",
+        "phase": 2,
+        "inputChannelType": "CONSUMPTION",
+        "inputChannelConnection": "SUBMETER",
+        "reversed": false,
+        "nilm": false,
+        "balanced": false,
+        "inputChannelCTType": "SCT2_400A"
+      }
+    ]
+  },
+  "measurements": [
+    {
+      "id": 49039,
+      "parentId": 0,
+      "name": "Net",
+      "maxAmpere": 400,
+      "type": "GRID",
+      "channels": [
+        {
+          "consumptionIndex": 0,
+          "powerTopicIndex": 0,
+          "name": "Net",
+          "phase": "PHASEA"
+        },
+        {
+          "consumptionIndex": 1,
+          "powerTopicIndex": 1,
+          "name": "Net",
+          "phase": "PHASEB"
+        },
+        {
+          "consumptionIndex": 2,
+          "powerTopicIndex": 2,
+          "name": "Net",
+          "phase": "PHASEC"
+        }
+      ],
+      "childIds": []
+    },
+    {
+      "id": 49040,
+      "parentId": 0,
+      "name": "Meter 1",
+      "maxAmpere": 100,
+      "type": "SUBCIRCUIT",
+      "subcircuitType": "OUTLETS",
+      "channels": [
+        {
+          "consumptionIndex": 3,
+          "powerTopicIndex": 3,
+          "name": "Meter 1",
+          "phase": "PHASEA"
+        },
+        {
+          "consumptionIndex": 4,
+          "powerTopicIndex": 4,
+          "name": "Meter 1",
+          "phase": "PHASEB"
+        },
+        {
+          "consumptionIndex": 5,
+          "powerTopicIndex": 5,
+          "name": "Meter 1",
+          "phase": "PHASEC"
+        }
+      ],
+      "childIds": []
+    },
+    {
+      "id": 49041,
+      "parentId": 0,
+      "name": "Verl buitenberging. 3",
+      "maxAmpere": 50,
+      "type": "SUBCIRCUIT",
+      "subcircuitType": "OUTLETS",
+      "channels": [
+        {
+          "consumptionIndex": 6,
+          "powerTopicIndex": 6,
+          "name": "Verl buitenberging. 3",
+          "phase": "PHASEA"
+        }
+      ],
+      "childIds": []
+    },
+    {
+      "id": 49042,
+      "parentId": 0,
+      "name": "Boiler10l",
+      "maxAmpere": 50,
+      "type": "SUBCIRCUIT",
+      "subcircuitType": "OUTLETS",
+      "channels": [
+        {
+          "consumptionIndex": 7,
+          "powerTopicIndex": 7,
+          "name": "Boiler10l",
+          "phase": "PHASEB"
+        }
+      ],
+      "childIds": []
+    },
+    {
+      "id": 49043,
+      "parentId": 0,
+      "name": "Verl keuken",
+      "maxAmpere": 50,
+      "type": "SUBCIRCUIT",
+      "subcircuitType": "OUTLETS",
+      "channels": [
+        {
+          "consumptionIndex": 8,
+          "powerTopicIndex": 8,
+          "name": "Verl keuken",
+          "phase": "PHASEB"
+        }
+      ],
+      "childIds": []
+    },
+    {
+      "id": 49044,
+      "parentId": 0,
+      "name": "Verl vide ",
+      "maxAmpere": 50,
+      "type": "SUBCIRCUIT",
+      "subcircuitType": "OUTLETS",
+      "channels": [
+        {
+          "consumptionIndex": 9,
+          "powerTopicIndex": 9,
+          "name": "Verl vide ",
+          "phase": "PHASEC"
+        }
+      ],
+      "childIds": []
+    },
+    {
+      "id": 49045,
+      "parentId": 0,
+      "name": "Lbk kantine ",
+      "maxAmpere": 50,
+      "type": "SUBCIRCUIT",
+      "subcircuitType": "OUTLETS",
+      "channels": [
+        {
+          "consumptionIndex": 10,
+          "powerTopicIndex": 10,
+          "name": "Lbk kantine ",
+          "phase": "PHASEA"
+        },
+        {
+          "consumptionIndex": 11,
+          "powerTopicIndex": 11,
+          "name": "Lbk kantine ",
+          "phase": "PHASEB"
+        },
+        {
+          "consumptionIndex": 12,
+          "powerTopicIndex": 12,
+          "name": "Lbk kantine ",
+          "phase": "PHASEC"
+        }
+      ],
+      "childIds": []
+    },
+    {
+      "id": 49059,
+      "parentId": 0,
+      "name": "Meter 2",
+      "maxAmpere": 200,
+      "type": "SUBCIRCUIT",
+      "subcircuitType": "OUTLETS",
+      "channels": [
+        {
+          "consumptionIndex": 13,
+          "powerTopicIndex": 13,
+          "name": "Meter 2",
+          "phase": "PHASEA"
+        },
+        {
+          "consumptionIndex": 14,
+          "powerTopicIndex": 14,
+          "name": "Meter 2",
+          "phase": "PHASEB"
+        },
+        {
+          "consumptionIndex": 15,
+          "powerTopicIndex": 15,
+          "name": "Meter 2",
+          "phase": "PHASEC"
+        }
+      ],
+      "childIds": []
+    },
+    {
+      "id": 49146,
+      "parentId": 0,
+      "name": "Meter 3",
+      "maxAmpere": 400,
+      "type": "SUBCIRCUIT",
+      "subcircuitType": "OUTLETS",
+      "channels": [
+        {
+          "consumptionIndex": 16,
+          "powerTopicIndex": 16,
+          "name": "Meter 3",
+          "phase": "PHASEA"
+        },
+        {
+          "consumptionIndex": 17,
+          "powerTopicIndex": 17,
+          "name": "Meter 3",
+          "phase": "PHASEB"
+        },
+        {
+          "consumptionIndex": 18,
+          "powerTopicIndex": 18,
+          "name": "Meter 3",
+          "phase": "PHASEC"
+        }
+      ],
+      "childIds": []
+    }
+  ],
+  "custom": [],
+  "capacityProtection": false,
+  "serviceLocationId": 48795,
+  "serviceLocationUuid": "660ddaef-8ed2-45f5-97c6-01d743ef9e29",
+  "name": "Loevenhoutsedijk (1)",
+  "deviceSerialNumber": "5010004002",
+  "from": 1588754747692
+}
